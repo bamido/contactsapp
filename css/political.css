@@ -1,0 +1,17 @@
+.error{
+	color: red;
+	font-size: 11px;
+	display: block;
+	padding-left: 10px;
+}
+
+.search{
+	display: inline;
+	padding: 5px;
+
+}
+
+.profileimg{
+	width: 150px;
+}
+
